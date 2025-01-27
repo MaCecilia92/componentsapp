@@ -3,7 +3,6 @@ import { Toaster } from "react-hot-toast"
 import HomePage from "./components/HomePage"
 
 const queryClient = new QueryClient()
-
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
