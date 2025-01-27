@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/tsremote.d.ts","./src/vite-env.d.ts","./src/components/campaignform.tsx","./src/components/campaignlist.tsx","./src/components/confirmationmodal.tsx","./src/components/homepage.tsx","./src/components/layout.tsx","./src/types/index.ts","./src/utils/cn.ts","./src/utils/index.ts"],"version":"5.7.3"}
